@@ -63,13 +63,13 @@ O arquivo completo do prompt está disponível em:
 A criação de assistentes personalizados depende da plataforma utilizada.  
 Abaixo estão os links oficiais e uma explicação mínima sobre cada processo.
 
-### **Gemini — Google AI**  
-Criação de assistentes via **Gems**:  
-https://support.google.com/gemini/answer/15235603?hl=pt
+### Gemini — Google AI
+Criação de assistentes via **Gems**  
+[Documentação oficial](https://support.google.com/gemini/answer/15236321)
 
-### **ChatGPT — OpenAI**  
-Criação de assistentes via **GPTs**:  
-https://help.openai.com/en/articles/8554397-creating-a-gpt
+### ChatGPT — OpenAI
+Criação de assistentes via **GPTs**  
+[Creating a GPT](https://help.openai.com/en/articles/8554397-creating-a-gpt)
 
 Esses dois caminhos permitem transformar o modelo IA Team em um assistente real, pronto para uso contínuo.
 
