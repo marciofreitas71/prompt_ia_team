@@ -65,7 +65,7 @@ Abaixo estão os links oficiais e uma explicação mínima sobre cada processo.
 
 ### **Gemini — Google AI**  
 Criação de assistentes via **Gems**:  
-https://gemini.google/overview/gems/  
+https://support.google.com/gemini/answer/15235603?hl=pt
 
 ### **ChatGPT — OpenAI**  
 Criação de assistentes via **GPTs**:  
