@@ -1,4 +1,4 @@
-# Assitentes para Simulação de equipes de TI
+# Assistentes para Simulação de equipes de TI
 
 Este documento orienta a criação de assistentes que simulam equipes técnicas organizadas, permitindo analisar problemas reais de TI por meio de personagens fictícios. O arquivo de exemplo IA_TEAM.md na pasta exemplos contém um modelo completo. Este guia explica como adaptar e criar suas próprias equipes, mantendo coerência e qualidade.
 
