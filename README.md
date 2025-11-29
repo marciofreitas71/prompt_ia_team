@@ -73,7 +73,7 @@ https://gemini.google/overview/gems/
 
 ### **ChatGPT — OpenAI**  
 Criação de assistentes via **GPTs**:  
-https://openai.com/index/introducing-gpts/  
+https://help.openai.com/en/articles/8554397-creating-a-gpt
 
 Esses dois caminhos permitem transformar o modelo IA Team em um assistente real, pronto para uso contínuo.
 
