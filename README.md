@@ -63,5 +63,19 @@ O arquivo completo do prompt está disponível em:
 ## Finalidade
 Este README serve como orientação para quem deseja criar assistentes customizados no estilo “IA Team”, com times fictícios que colaboram para solucionar problemas de tecnologia de forma estruturada, clara e profissional.
 
+## Como Criar Assistentes personalizados
+A criação de assistentes personalizados depende da plataforma utilizada.  
+Abaixo estão os links oficiais e uma explicação mínima sobre cada processo.
+
+### **Gemini — Google AI**  
+Criação de assistentes via **Gems**:  
+https://gemini.google/overview/gems/  
+
+### **ChatGPT — OpenAI**  
+Criação de assistentes via **GPTs**:  
+https://openai.com/index/introducing-gpts/  
+
+Esses dois caminhos permitem transformar o modelo IA Team em um assistente real, pronto para uso contínuo.
+
 ## Autor
 Márcio Freitas
