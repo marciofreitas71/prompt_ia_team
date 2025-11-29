@@ -57,7 +57,7 @@ Para cada área, ajuste os personagens e a natureza das discussões, mas mantenh
 ## Exemplo
 O arquivo completo do prompt está disponível em:
 ```
-/exemplos/IA_TEAM.md
+/prompts/IA_TEAM.md
 ```
 
 ## Finalidade
