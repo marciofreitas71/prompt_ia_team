@@ -59,10 +59,6 @@ O arquivo completo do prompt está disponível em:
 ```
 /prompts/IA_TEAM.md
 ```
-
-## Finalidade
-Este README serve como orientação para quem deseja criar assistentes customizados no estilo “IA Team”, com times fictícios que colaboram para solucionar problemas de tecnologia de forma estruturada, clara e profissional.
-
 ## Como Criar Assistentes personalizados
 A criação de assistentes personalizados depende da plataforma utilizada.  
 Abaixo estão os links oficiais e uma explicação mínima sobre cada processo.
